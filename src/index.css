@@ -1,0 +1,20 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .font-ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .font-open-sans {
+    font-family: 'Open Sans', sans-serif;
+  }
